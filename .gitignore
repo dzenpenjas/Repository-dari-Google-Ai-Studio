@@ -1,8 +1,8 @@
 node_modules/
-build/
+.env
+.DS_Store
+/.vscode
 dist/
 coverage/
-.DS_Store
 *.log
-.env*
-!.env.example
+package-lock.json
