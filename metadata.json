@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Integration Guide",
+  "description": "Learn how to connect your GitHub projects with Google AI Studio Build.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
